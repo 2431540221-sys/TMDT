@@ -1,0 +1,38 @@
+.tmdt-header {
+  background: linear-gradient(90deg, #1b5e20 0%, #2e7d32 55%, #43a047 100%);
+  color: #fff;
+}
+.tmdt-brand { color: #fff; }
+.tmdt-brand:hover { color: #fff; }
+.tmdt-brand-text {
+  font-size: 1.35rem;
+  font-weight: 700;
+  letter-spacing: 0.3px;
+}
+.tmdt-brand-text small {
+  font-weight: 400;
+  margin-left: 6px;
+  opacity: 0.85;
+}
+.tmdt-link {
+  color: rgba(255, 255, 255, 0.88);
+  text-decoration: none;
+  font-weight: 500;
+  padding: 4px 2px;
+  border-bottom: 2px solid transparent;
+}
+.tmdt-link:hover { color: #fff; }
+.tmdt-link.active {
+  color: #fff;
+  border-bottom-color: #c5e1a5;
+}
+.tmdt-btn-register { color: #1b5e20; }
+.tmdt-user {
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+.tmdt-user:hover, .tmdt-user:focus, .tmdt-user.show {
+  color: #fff;
+  background: rgba(255, 255, 255, 0.15);
+  border-color: #fff;
+}
