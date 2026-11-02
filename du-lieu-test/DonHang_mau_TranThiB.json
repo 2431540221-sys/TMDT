@@ -1,0 +1,30 @@
+[
+  {
+    "_id": { "$oid": "65a000000000000000000041" },
+    "nguoiMuaIdDonHang": { "$oid": "65a000000000000000000002" },
+    "nguoiBanIdDonHang": { "$oid": "65a000000000000000000003" },
+    "diaChiGiaoHang": { "tenNguoiNhan": "Nguyễn Văn A", "sdtNguoiNhan": "0900000002", "diaChiNguoiNhan": "Quận 1, TP.HCM" },
+    "phuongThucThanhToan": "COD",
+    "trangThaiThanhToan": "Chưa thanh toán",
+    "trangThaiDonHang": "Chờ xác nhận",
+    "tongTienDonHang": 450000,
+    "ngayDatDonHang": { "$date": "2026-10-26T08:00:00.000Z" },
+    "danhSachChiTiet": [
+      { "sanPhamIdChiTiet": { "$oid": "65a000000000000000000021" }, "tenSanPhamChiTiet": "Bàn học gỗ cũ", "giaChiTiet": 450000, "soLuongChiTiet": 1 }
+    ]
+  },
+  {
+    "_id": { "$oid": "65a000000000000000000042" },
+    "nguoiMuaIdDonHang": { "$oid": "65a000000000000000000002" },
+    "nguoiBanIdDonHang": { "$oid": "65a000000000000000000003" },
+    "diaChiGiaoHang": { "tenNguoiNhan": "Nguyễn Văn A", "sdtNguoiNhan": "0900000002", "diaChiNguoiNhan": "Quận 1, TP.HCM" },
+    "phuongThucThanhToan": "COD",
+    "trangThaiThanhToan": "Chưa thanh toán",
+    "trangThaiDonHang": "Đang giao",
+    "tongTienDonHang": 300000,
+    "ngayDatDonHang": { "$date": "2026-10-25T08:00:00.000Z" },
+    "danhSachChiTiet": [
+      { "sanPhamIdChiTiet": { "$oid": "65a000000000000000000022" }, "tenSanPhamChiTiet": "Giày thể thao size 42", "giaChiTiet": 300000, "soLuongChiTiet": 1 }
+    ]
+  }
+]
