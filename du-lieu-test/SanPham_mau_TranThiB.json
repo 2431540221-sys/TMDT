@@ -1,0 +1,32 @@
+[
+  {
+    "_id": { "$oid": "65a000000000000000000021" },
+    "tenSanPham": "Bàn học gỗ cũ",
+    "moTaSanPham": "Bàn học gỗ 1m2, còn chắc chắn",
+    "giaSanPham": 450000,
+    "hinhAnhSanPham": [],
+    "phanTramMoiSanPham": 75,
+    "moTaTinhTrangSanPham": "Có vài vết xước nhỏ",
+    "trangThaiDuyet": "Đã duyệt",
+    "trangThaiBan": "Đang bán",
+    "ngayDangSanPham": { "$date": "2026-10-20T08:00:00.000Z" },
+    "nguoiBanIdSanPham": { "$oid": "65a000000000000000000003" },
+    "danhMucIdSanPham": { "$oid": "65a000000000000000000010" },
+    "nguoiDuyetIdSanPham": { "$oid": "65a000000000000000000001" }
+  },
+  {
+    "_id": { "$oid": "65a000000000000000000022" },
+    "tenSanPham": "Giày thể thao size 42",
+    "moTaSanPham": "Mang vài lần",
+    "giaSanPham": 300000,
+    "hinhAnhSanPham": [],
+    "phanTramMoiSanPham": 90,
+    "moTaTinhTrangSanPham": "Gần như mới",
+    "trangThaiDuyet": "Chờ duyệt",
+    "trangThaiBan": "Đang bán",
+    "ngayDangSanPham": { "$date": "2026-10-27T08:00:00.000Z" },
+    "nguoiBanIdSanPham": { "$oid": "65a000000000000000000003" },
+    "danhMucIdSanPham": { "$oid": "65a000000000000000000010" },
+    "nguoiDuyetIdSanPham": null
+  }
+]
